@@ -1,0 +1,11 @@
+Hi, My name is Ateendra Pratap Solanki and I am from Ghaziabad.
+I live in a nuclear family and I have completed my schooling from Jaipuria School, Ghaziabad.
+
+I am a student and currently pursuing B.Tech in Computer Science from Ajay Kumar Garg Engineering College.
+My current tech stack includes HTML,CSS,Javascript,Tailwind,Reactjs and Nexts. I am interested in learning more about the MERN stack.
+
+I have made few basic projects and I’m always eager to expand my knowledge.
+My goal is to continue improving my skills and contributing to impactful projects.
+
+I am also an active contributor to GitHub, where I regularly publish my projects, and 
+I am constantly learning new frameworks and technologies to stay ahead in the rapidly evolving tech space.
